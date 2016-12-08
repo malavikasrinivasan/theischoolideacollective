@@ -1,1 +1,6 @@
-# theischoolideacollective
+# theideacollective
+
+Malavika
+Anna 
+Nancy
+Selenne
